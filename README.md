@@ -1,6 +1,6 @@
 # Tic Tac Toe Game
 A simple web-based implementation of the classic Tic Tac Toe game using HTML, CSS, and JavaScript. Enjoy playing against a friend or challenge yourself against the computer!
-<!--
+
 ## Table of Contents
 
 - [Screenshots](#screenshots)
@@ -11,7 +11,7 @@ A simple web-based implementation of the classic Tic Tac Toe game using HTML, CS
 - [Contributing](#contributing)
 - [Credits](#credits)
 - [License](#license)
-
+<!--
 ## Screenshots
 
 ![GameUI](gameUI.png)
