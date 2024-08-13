@@ -11,11 +11,11 @@ A simple web-based implementation of the classic Tic Tac Toe game using HTML, CS
 - [Contributing](#contributing)
 - [Credits](#credits)
 - [License](#license)
-<!--
+
 ## Screenshots
 
 ![GameUI](gameUI.png)
-
+<!--
 ## Installation
 
 To run this Tic Tac Toe game locally, follow these steps:
