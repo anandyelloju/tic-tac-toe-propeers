@@ -15,7 +15,7 @@ A simple web-based implementation of the classic Tic Tac Toe game using HTML, CS
 ## Screenshots
 
 ![GameUI](gameUI.png)
-<!--
+
 ## Installation
 
 To run this Tic Tac Toe game locally, follow these steps:
@@ -29,7 +29,7 @@ git clone https://github.com/anandyelloju/tic-tac-toe.git
 cd tic-tac-toe
 ```
 3. Open the '**index.html**' file in your web browser to start playing.
-
+<!--
 ## Usage
 
 - Click on the grid to place your X or O.
