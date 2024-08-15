@@ -29,13 +29,13 @@ git clone https://github.com/anandyelloju/tic-tac-toe.git
 cd tic-tac-toe
 ```
 3. Open the '**index.html**' file in your web browser to start playing.
-<!--
+
 ## Usage
 
 - Click on the grid to place your X or O.
 - The game alternates turns between Player 1 (X) and Player 2 (O).
 - The first player to get three of their symbols in a row (horizontally, vertically, or diagonally) wins.
-
+<!--
 ## Features
 
 - Play against a friend locally.
