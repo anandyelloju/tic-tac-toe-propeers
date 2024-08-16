@@ -35,13 +35,13 @@ cd tic-tac-toe
 - Click on the grid to place your X or O.
 - The game alternates turns between Player 1 (X) and Player 2 (O).
 - The first player to get three of their symbols in a row (horizontally, vertically, or diagonally) wins.
-<!--
+
 ## Features
 
 - Play against a friend locally.
 - Simple and intuitive user interface.
 - Responsive design for various screen sizes.
-
+<!--
 ## Technologies Used
 
 - **HTML:** Markup language for creating web pages.
