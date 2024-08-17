@@ -41,7 +41,7 @@ cd tic-tac-toe
 - Play against a friend locally.
 - Simple and intuitive user interface.
 - Responsive design for various screen sizes.
-<!--
+
 ## Technologies Used
 
 - **HTML:** Markup language for creating web pages.
@@ -49,7 +49,7 @@ cd tic-tac-toe
 - **JavaScript:** Scripting language for making the game interactive.
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,,vscode,github)](https://skillicons.dev)
-
+<!--
 ## Contributing
 
 Contributions are welcome! If you have any suggestions or improvements.
