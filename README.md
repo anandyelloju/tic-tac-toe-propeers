@@ -49,11 +49,11 @@ cd tic-tac-toe
 - **JavaScript:** Scripting language for making the game interactive.
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,,vscode,github)](https://skillicons.dev)
-<!--
+
 ## Contributing
 
 Contributions are welcome! If you have any suggestions or improvements.
-
+<!--
 ## Credits
 
 - Inspired by the classic Tic Tac Toe game.
