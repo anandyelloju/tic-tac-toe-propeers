@@ -53,12 +53,12 @@ cd tic-tac-toe
 ## Contributing
 
 Contributions are welcome! If you have any suggestions or improvements.
-<!--
+
 ## Credits
 
 - Inspired by the classic Tic Tac Toe game.
 - Developed by [Anand Yelloju](https://github.com/anandyelloju).
-
+<!--
 ## License
 
 This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/) - see the [LICENSE](https://github.com/your-username/tic-tac-toe/blob/main/LICENSE) file for details.
