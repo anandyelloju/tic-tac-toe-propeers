@@ -1,5 +1,5 @@
 # Tic Tac Toe Game
-A simple web-based implementation of the classic Tic Tac Toe game using HTML, CSS, and JavaScript. Enjoy playing against a friend or challenge yourself against the computer!
+A simple web-based implementation of the classic Tic Tac Toe game using HTML, CSS, and JavaScript as part of a JS Developer roadmap on the ProPeers. Enjoy playing against a friend or challenge yourself against the computer!
 
 ## Table of Contents
 
@@ -57,7 +57,7 @@ Contributions are welcome! If you have any suggestions or improvements.
 ## Credits
 
 - Inspired by the classic Tic Tac Toe game.
-- Developed by [Anand Yelloju](https://github.com/anandyelloju).
+- Developed by [Anand Yelloju](https://github.com/anandyelloju) as part of a JS Developer roadmap on the ProPeers.
 
 ## License
 
